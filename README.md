@@ -40,12 +40,6 @@
 <br>
 
 
------
-Credits: [Khushi Saxena](https://github.com/Khushi0321)
-
-Last Edited on: 30/11/2021
-
-
 <!--
 **AndreaPennisi04/AndreaPennisi04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

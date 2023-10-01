@@ -3,26 +3,7 @@
   <img src="https://media.tenor.com/RebybK9oT8gAAAAC/sailormoon-eating.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 490px; height: 352px; margin: 0px; width: 482px;" alt="Sailormoon Eating GIF - Sailormoon Eating Hungry - Discover &amp; Share GIFs" jsname="kn3ccd">
 
  ## Who am I?
- ``` js
- class WhoAmI:
- 	name = 'Andrea'
-surname = 'Pennisi'
-	current_edu = "Coder House"
-	hobbies = [
-				'Drawing',
-				'Watching series, Sailor Moon, movies',
-				'Reading anime',
-        'Play drums',
-        'Have time with the family,
-				
-			]
-	
-	def Ambitions():
-		LearnItalian()
-		LearnEnglish()
-		LearnFEandBE()
-	
- ```
+
 ```javascript
 const whoAmI = {
   name: "Andrea",
@@ -41,10 +22,10 @@ const whoAmI = {
   ambitions: {
                   learning technology: "AI",
                    languages: " English and Italian",
-build: "My own App"
+                   build: "My own App"
                        
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "Finishing my 1 year course as Full Stack"
 }
 ```
 </p>

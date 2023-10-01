@@ -118,7 +118,7 @@ const whoAmI = {
 - 🌱 I’m currently learning everything about Frontend and Backend technologies.
 - 👯 I like working in a team.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- :School: I studied in La Uba in Argentina. I was a Solicitor. 
+- :mortar_board: I studied in La Uba in Argentina. I was a Solicitor. 
 - :books: I'm currently finishing the course Full Stack in CoderHouse
 - :earth_asia: I'm living in Scotland
 

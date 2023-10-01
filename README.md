@@ -1,7 +1,54 @@
 ### Hi there 👋
 <p align="center">
   <img src="https://media.tenor.com/RebybK9oT8gAAAAC/sailormoon-eating.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 490px; height: 352px; margin: 0px; width: 482px;" alt="Sailormoon Eating GIF - Sailormoon Eating Hungry - Discover &amp; Share GIFs" jsname="kn3ccd">
+
+ ## Who am I?
+ ``` js
+ class WhoAmI:
+ 	name = 'Andrea'
+surname = 'Pennisi'
+	current_edu = "Coder House"
+	hobbies = [
+				'Drawing',
+				'Watching series, Sailor Moon, movies',
+				'Reading anime',
+        'Play drums',
+        'Have time with the family,
+				
+			]
+	
+	def Ambitions():
+		LearnItalian()
+		LearnEnglish()
+		LearnFEandBE()
+	
+ ```
+```javascript
+const whoAmI = {
+  name: "Andrea",
+  surname: "Pennisi",
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Node, Jest, Docker],
+  current education: "Coder House"
+  hobbies: {
+                        time free: "Watching series, Sailor Moon, movies, drawing",
+                        passions: "Watch the sky using my telescope",
+                        current book: "Sailor Moon", 
+                        instrument knowledge: "drums",
+                        love: "Have time with the family and share time together"
+                      },
+  ambitions: {
+                  learning technology: "AI",
+                   languages: " English and Italian",
+build: "My own App"
+                       
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 </p>
+<hr>
 
 ## 🛠️ My Skills
 
@@ -28,6 +75,20 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 
+### <u> Backend Development + Database + DevOps + Deployment Technologies & Tools: </u>
+
+<br>
+
+<span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js logo" title="Express.js" height="25" /></span>
+&nbsp;
+<span>
+<span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker Code" height="25" /></span>
+&nbsp;
+
 ### Tools:
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> 
@@ -39,6 +100,7 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+<span><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI logo" title="Material UI" height="25" /></span>
 
 ### Databases:
 
@@ -50,6 +112,20 @@
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 
+### Testing:
+
+### <u> Operating Systems and Others:</u>
+<br>
+<span>
+<img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo"  title="Windows" height="25"/>
+</span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<br>
+
+ ## 📝 Recent Projects
+
 <br>
 <summary><h2> What I currently do</h2></summary>
 
@@ -57,9 +133,13 @@
 - 🌱 I’m currently learning everything about Frontend and Backend technologies.
 - 👯 I like working in a team.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- - :school: I studied in La Uba in Argentina. I was a Solicitor. 
+- :school: I studied in La Uba in Argentina. I was a Solicitor. 
 - :books: I'm currently finishing the course Full Stack in CoderHouse
-- :earth_asia: I'm living in Scotland 
+- :earth_asia: I'm living in Scotland
+
+
+ ## 📝 Contact me
+
 
 <!--
 **AndreaPennisi04/AndreaPennisi04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

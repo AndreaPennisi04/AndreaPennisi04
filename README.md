@@ -86,17 +86,14 @@ const whoAmI = {
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 <span><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI logo" title="Material UI" height="25" /></span>
 
 ### Databases:
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-
-### SRE & DevOps:
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 
 ### Testing:
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>

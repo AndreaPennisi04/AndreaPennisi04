@@ -124,7 +124,7 @@ const whoAmI = {
 
 
  ## 📝 Contact me
-
+[![@andreapennisi](https://img.icons8.com/fluency/48/000000/linkedin.png "@andreapennisi04")](https://www.linkedin.com/in/apennisi) 
 
 <!--
 **AndreaPennisi04/AndreaPennisi04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

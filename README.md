@@ -111,6 +111,17 @@ const whoAmI = {
  ![Back End Project](https://entregables-production.up.railway.app/login)
  ![Cotizador](https://andreapennisi04.github.io/javascript-44685/simulador.html)
 
+## 🏆 Certification
+<Br>
+
+[![](https://img.shields.io/badge/ISTQB%20-red?style=for-the-badge)](https://)
+[![](https://img.shields.io/badge/Desarrollo%20Web-pick?style=for-the-badge)](https://)
+[![](https://img.shields.io/badge/Java%20Script-blue?style=for-the-badge)](https://)
+[![](https://img.shields.io/badge/React%20-green?style=for-the-badge)](https://)
+[![](https://img.shields.io/badge/Back%20end%20-orange?style=for-the-badge)](https://)
+
+<Br>
+
 <br>
 <summary><h2> What I currently do</h2></summary>
 

@@ -46,6 +46,11 @@ const whoAmI = {
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+<span>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  </span>
 
 ### Frontend development:
 
@@ -60,9 +65,9 @@ const whoAmI = {
 
 <br>
 
-<span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 &nbsp;
-<span><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js logo" title="Express.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
 <span>
 <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></span>
@@ -94,18 +99,19 @@ const whoAmI = {
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 
 ### Testing:
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 
-### <u> Operating Systems and Others:</u>
-<br>
-<span>
-<img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo"  title="Windows" height="25"/>
-</span>
+### Operating Systems and Others:
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 &nbsp;
 <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <br>
 
  ## 📝 Recent Projects
+ ![Back End Project](https://entregables-production.up.railway.app/login)
+ ![Cotizador](https://andreapennisi04.github.io/javascript-44685/simulador.html)
 
 <br>
 <summary><h2> What I currently do</h2></summary>
@@ -114,7 +120,7 @@ const whoAmI = {
 - 🌱 I’m currently learning everything about Frontend and Backend technologies.
 - 👯 I like working in a team.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- :school: I studied in La Uba in Argentina. I was a Solicitor. 
+- :School: I studied in La Uba in Argentina. I was a Solicitor. 
 - :books: I'm currently finishing the course Full Stack in CoderHouse
 - :earth_asia: I'm living in Scotland
 

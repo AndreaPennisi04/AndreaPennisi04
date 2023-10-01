@@ -13,10 +13,10 @@ const whoAmI = {
   tools: [React, Node, Jest, Docker],
   current education: "Coder House"
   hobbies: {
-                        timeFree: "Watching series, Sailor Moon, movies, drawing",
+                        freeTime: "Watching series, Sailor Moon, movies, drawing",
                         passions: "Watch the sky using my telescope",
-                        current book: "Sailor Moon", 
-                        instrumentKnowledge: "drums",
+                        currentBook: "Sailor Moon", 
+                        musicalInstrument: "Drums",
                         love: "Have time with the family and share time together"
                       },
   ambitions: {

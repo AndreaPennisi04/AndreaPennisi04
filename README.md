@@ -16,7 +16,7 @@ const whoAmI = {
   hobbies: {
                         freeTime: "Watching series, Sailor Moon, movies, drawing",
                         passions: "Watch the sky using my telescope",
-                        currentBook: "Sailor Moon", "Unlocking the universe", , 
+                        currentBook: "Sailor Moon", "Unlocking the universe" 
                         musicalInstrument: "Drums",
                         love: "Have time with the family and friends"
                       },

@@ -10,23 +10,23 @@ const whoAmI = {
   name: "Andrea",
   surname: "Pennisi",
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS],
+  code: [Javascript, HTML, CSS, React, SQL],
   tools: [React, Node, Jest, Docker],
   current education: "Coder House"
   hobbies: {
                         freeTime: "Watching series, Sailor Moon, movies, drawing",
                         passions: "Watch the sky using my telescope",
-                        currentBook: "Sailor Moon", 
+                        currentBook: "Sailor Moon", "Unlocking the universe", , 
                         musicalInstrument: "Drums",
-                        love: "Have time with the family and share time together"
+                        love: "Have time with the family and share time"
                       },
   ambitions: {
                   learningTechnology: "AI",
                    languages: " English and Italian",
-                   build: "My own App"
+                   build: "My App"
                        
                       },
- challenge: "Finishing my 1-year course as Full Stack"
+ challenge: "Start seeing my company grow "
 }
 ```
 </p>

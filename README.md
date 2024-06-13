@@ -18,7 +18,7 @@ const whoAmI = {
                         passions: "Watch the sky using my telescope",
                         currentBook: "Sailor Moon", "Unlocking the universe", , 
                         musicalInstrument: "Drums",
-                        love: "Have time with the family and share time"
+                        love: "Have time with the family and friends"
                       },
   ambitions: {
                   learningTechnology: "AI",
